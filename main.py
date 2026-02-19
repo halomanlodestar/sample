@@ -1,5 +1,6 @@
 import math
 
+
 def is_prime(n: int) -> bool:
     """Returns True if n is a prime number, False otherwise."""
     if n <= 1:
@@ -9,6 +10,6 @@ def is_prime(n: int) -> bool:
             return True
     return False
 
+
 def hi():
-  ok = 10
-  pass
+    pass
