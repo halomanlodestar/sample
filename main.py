@@ -1,5 +1,6 @@
 import math
 
 def hi():
-  ok = 10
+  ok = 
+  10
   pass
