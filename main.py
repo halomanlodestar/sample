@@ -11,6 +11,5 @@ def is_prime(n: int) -> bool:
     return True  # [AI FIX]
 
 
-
-def hi():
+def hi():  # [AI FIX]
     pass
